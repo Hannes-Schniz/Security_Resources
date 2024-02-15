@@ -3,4 +3,4 @@ A collection of Links and Resources as a research project into the field of Cybe
 
 ---
 # Links to resources
-[[Security_Resources]]
+[Security Resources](Security_Resources.md)
