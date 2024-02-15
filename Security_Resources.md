@@ -4,7 +4,6 @@ tags:
   - Research🔎
   - Pentesting
   - Security
-banner:
 ---
 ## Werkzeuge
 - [Hak5](https://shop.hak5.org/)
