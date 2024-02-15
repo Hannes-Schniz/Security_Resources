@@ -36,3 +36,4 @@ banner:
 - [David Bombal](https://www.youtube.com/@davidbombal)
 - [DarknetDiaries](https://www.youtube.com/@JackRhysider)
 - [LiveOverflow](https://www.youtube.com/@LiveOverflow)
+- [Seytonic](https://www.youtube.com/@Seytonic)
