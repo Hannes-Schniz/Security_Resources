@@ -5,7 +5,9 @@ tags:
   - Pentesting
   - Security
 ---
+
 ## Werkzeuge
+
 - [Hak5](https://shop.hak5.org/)
 - [Flipperzero](https://flipperzero.one/)
 - [Dstike](https://dstike.com/collections/all)
@@ -14,9 +16,10 @@ tags:
 - [Alfa](https://www.alfa.com.tw/)
 
 ## Nachschlagen
+
 - [Mitre ATT&CK](https://attack.mitre.org/)
 - [Mitre CVE](https://cve.mitre.org/)
-- [CVE Details](https://www.cvedetails.com/documentation/osv)
+- [CVE Details](https://www.cvedetails.com/)
 - [Opensource Voulnerabilities](https://osv.dev/)
 - [Github Advisory DB](https://github.com/advisories)
 - [HaveIBeenPwnd](https://haveibeenpwned.com/Passwords)
@@ -28,10 +31,12 @@ tags:
 - [NICCS](https://niccs.cisa.gov/)
 
 ## Training
+
 - [HackTheBox](https://academy.hackthebox.com/dashboard)
 - [TryHackMe](https://tryhackme.com/dashboard)
-    
+
 ## Youtube
+
 - [David Bombal](https://www.youtube.com/@davidbombal)
 - [DarknetDiaries](https://www.youtube.com/@JackRhysider)
 - [LiveOverflow](https://www.youtube.com/@LiveOverflow)
