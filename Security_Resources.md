@@ -30,6 +30,7 @@ tags:
 - [SentinelOne](https://de.sentinelone.com/resources/)
 - [Vocabulary](https://niccs.cisa.gov/cybersecurity-career-resources/vocabulary)
 - [NICCS](https://niccs.cisa.gov/)
+- [Security Cheat Sheet](security-cheatsheets/cheatsheet_index.md)
 
 ## Training
 
