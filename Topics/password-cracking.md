@@ -13,3 +13,6 @@ World's fastest and most advanced password recovery utility
 
 [John](https://github.com/openwall/john)
 the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
+
+[Aircrack-ng](http://www.aircrack-ng.org/)
+is a complete suite of tools to assess WiFi network security.
