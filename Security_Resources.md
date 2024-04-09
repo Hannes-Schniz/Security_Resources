@@ -45,3 +45,5 @@ tags:
 - [DarknetDiaries](https://www.youtube.com/@JackRhysider)
 - [LiveOverflow](https://www.youtube.com/@LiveOverflow)
 - [Seytonic](https://www.youtube.com/@Seytonic)
+- [Chaos Computer Club](https://www.youtube.com/@mediacccde/videos)
+- [John Hammond](https://www.youtube.com/@_JohnHammond)
