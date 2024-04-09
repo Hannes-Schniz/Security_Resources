@@ -15,6 +15,8 @@ tags:
 - [Pwnagotchi](https://pwnagotchi.ai/)
 - [Alfa](https://www.alfa.com.tw/)
 - [Keysniffer](https://keysniffer.net/)
+- [Ubertooth](https://greatscottgadgets.com/ubertoothone/)
+- [Paz infrared](https://www.amazon.com/Universal-Smartphone-Controller-Infrared-Conditioner/dp/B0C4KMLFQR)
 
 ## Nachschlagen
 
