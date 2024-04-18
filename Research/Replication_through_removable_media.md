@@ -15,6 +15,8 @@ To hide the infection even after openen the file the following options are given
 1. When executing the manipulated file, open the original file to avoid raising suspicion.
 2. When running the manipulated file, replace itself with the original file.
 
+Left-To-Right overwrite Unicode character: 202E
+
 
 ### ==Additional data Streams==
 
