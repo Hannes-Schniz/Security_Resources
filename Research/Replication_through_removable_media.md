@@ -140,8 +140,13 @@ CreateObject("WScript.Shell").Run pSCmd, 0, True
 ```
 ---
 
+# PoC
 
-The Script can be executed through a shortcut.
+The Script can be executed through a shortcut with the following options:
+```
+powershell.exe -executionpolicy bypass -noexit -windowstyle hidden
+```
+additionally should the run option be set to Minimized and the Icon and Name has to be changed.
 
 Script to start a sub process that listenes to newly inserted USB devices.
 ```
