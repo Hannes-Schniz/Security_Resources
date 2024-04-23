@@ -33,6 +33,9 @@ tags:
 - [Vocabulary](https://niccs.cisa.gov/cybersecurity-career-resources/vocabulary)
 - [NICCS](https://niccs.cisa.gov/)
 - [Security Cheat Sheet](security-cheatsheets/cheatsheet_index.md)
+- [LOTS Project](https://lots-project.com/)
+- [Mal API](https://malapi.io/)
+- [Filesec](https://filesec.io/)
 
 ## Training
 
