@@ -2,8 +2,6 @@
 tags:
   - Work
   - USB
-  - CCK
-banner:
 banner: "![[binary-numbers-tunnel-1080p-hd-wallpaper-wallpapers-h-w-ibackgroundz.com.jpg]]"
 ---
 
