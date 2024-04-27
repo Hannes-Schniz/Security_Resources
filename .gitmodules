@@ -1,3 +1,6 @@
 [submodule "brutforce-database"]
 	path = brutforce-database
 	url = https://github.com/duyet/bruteforce-database
+[submodule "bruteforce-database"]
+	path = bruteforce-database
+	url = https://github.com/duyet/bruteforce-database
