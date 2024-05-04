@@ -50,3 +50,4 @@ tags:
 - [Seytonic](https://www.youtube.com/@Seytonic)
 - [Chaos Computer Club](https://www.youtube.com/@mediacccde/videos)
 - [John Hammond](https://www.youtube.com/@_JohnHammond)
+- [Cyber Material](https://www.youtube.com/@cybermaterial/videos)
