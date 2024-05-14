@@ -9,10 +9,12 @@ A collection of Links and Resources as a research project into the field of Cybe
 # Specific Topics
 
 [Password Cracking](Topics/password-cracking.md)
-[Social Engineering(DE)](Topics/social-engineering.md)
-[Passwords(DE)](Topics/Passwords.md)
-[MFA(DE)](Topics/MFA.md)
 
+[Social Engineering(DE)](Topics/social-engineering.md)
+
+[Passwords(DE)](Topics/Passwords.md)
+
+[MFA(DE)](Topics/MFA.md)
 
 
 # Research Files

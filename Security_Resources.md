@@ -17,6 +17,7 @@ tags:
 - [Keysniffer](https://keysniffer.net/)
 - [Ubertooth](https://greatscottgadgets.com/ubertoothone/)
 - [Paz infrared](https://www.amazon.com/Universal-Smartphone-Controller-Infrared-Conditioner/dp/B0C4KMLFQR)
+- [VX-underground](https://vx-underground.org/)
 
 ## Nachschlagen
 
@@ -50,3 +51,4 @@ tags:
 - [Seytonic](https://www.youtube.com/@Seytonic)
 - [Chaos Computer Club](https://www.youtube.com/@mediacccde/videos)
 - [John Hammond](https://www.youtube.com/@_JohnHammond)
+- [Cyber Material](https://www.youtube.com/@cybermaterial/videos)
