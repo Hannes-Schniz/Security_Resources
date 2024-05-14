@@ -16,6 +16,8 @@ A collection of Links and Resources as a research project into the field of Cybe
 
 [MFA(DE)](Topics/MFA.md)
 
+[Hashing](Topics/Hashing.md)
+
 
 # Research Files
 
