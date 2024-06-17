@@ -37,6 +37,8 @@ tags:
 - [LOTS Project](https://lots-project.com/)
 - [Mal API](https://malapi.io/)
 - [Filesec](https://filesec.io/)
+- [Phishunt](https://phishunt.io/statistics/)
+- [OPENORCHID](https://github.com/LiveGray/OPENORCHID)
 
 ## Training
 
