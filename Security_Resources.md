@@ -18,6 +18,7 @@ tags:
 - [Ubertooth](https://greatscottgadgets.com/ubertoothone/)
 - [Paz infrared](https://www.amazon.com/Universal-Smartphone-Controller-Infrared-Conditioner/dp/B0C4KMLFQR)
 - [VX-underground](https://vx-underground.org/)
+- [URLScan](https://urlscan.io/)
 
 ## Nachschlagen
 
@@ -39,6 +40,7 @@ tags:
 - [Filesec](https://filesec.io/)
 - [Phishunt](https://phishunt.io/statistics/)
 - [OPENORCHID](https://github.com/LiveGray/OPENORCHID)
+- [Spam Archive](http://untroubled.org/spam/)
 
 ## Training
 
