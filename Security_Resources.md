@@ -45,13 +45,17 @@ tags:
 - [OPENORCHID](https://github.com/LiveGray/OPENORCHID)
 - [Spam Archive](http://untroubled.org/spam/)
 - [SecLists](https://github.com/danielmiessler/SecLists)
+- [Vorizon Data Breach Records](https://enterprise.verizon.com/resources/reports/dbir/)
+- Unit42 [1](https://unit42.paloaltonetworks.com/tag/threat-assessment/) [2](https://unit42.paloaltonetworks.com/?pg=1#reports) [3](https://unit42.paloaltonetworks.com/?pg=1#threat-brief)
+- [Mandiant](https://www.mandiant.com)
+- [Thretpost](https://threatpost.com/)
 
 ## Training
 
 - [HackTheBox](https://academy.hackthebox.com/dashboard)
 - [TryHackMe](https://tryhackme.com/dashboard)
 
-## Youtube
+## Streaming
 
 - [David Bombal](https://www.youtube.com/@davidbombal)
 - [DarknetDiaries](https://www.youtube.com/@JackRhysider)
@@ -60,3 +64,5 @@ tags:
 - [Chaos Computer Club](https://www.youtube.com/@mediacccde/videos)
 - [John Hammond](https://www.youtube.com/@_JohnHammond)
 - [Cyber Material](https://www.youtube.com/@cybermaterial/videos)
+- [MaliciousLife](https://malicious.life/)
+- [Risky Biz](https://risky.biz/)
