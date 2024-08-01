@@ -126,7 +126,7 @@ Your magical code here.
 
 ---
 
-A single vbs file solution. You first have to convert your ps script to base64 string, place it in a variable in the template shown below and save it as I vbs file. Runs without powershell popppring up.
+A single vbs file solution. You first have to convert your ps script to base64 string, place it in a variable in the template shown below and save it as I vbs file. Runs without powershell coming up.
 
 ```vbs
 dim EncodedCommand
@@ -156,7 +156,7 @@ explorer.exe .\<<folder>>
 This opens a new explorer window with the open folder. 
 
 The script to start a sub process that listenes to newly inserted USB devices:
-```
+```powershell
 # .Net methods for hiding/showing the console in the background
 Add-Type -Name Window -Namespace Console -MemberDefinition '
 [DllImport("Kernel32.dll")]
