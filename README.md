@@ -29,4 +29,4 @@ A collection of Links and Resources as a research project into the field of Cybe
 
 **Lateral Movement Techniques**
 
-[Replication_through_USB](Replication_through_removable_media.md)
+[Replication_through_USB](Research/Replication_through_removable_media.md)
