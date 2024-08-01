@@ -44,6 +44,7 @@ tags:
 - [Phishunt](https://phishunt.io/statistics/)
 - [OPENORCHID](https://github.com/LiveGray/OPENORCHID)
 - [Spam Archive](http://untroubled.org/spam/)
+- [SecLists](https://github.com/danielmiessler/SecLists)
 
 ## Training
 
