@@ -67,3 +67,4 @@ tags:
 - [Cyber Material](https://www.youtube.com/@cybermaterial/videos)
 - [MaliciousLife](https://malicious.life/)
 - [Risky Biz](https://risky.biz/)
+- [Defcon](https://www.youtube.com/@DEFCONConference)
