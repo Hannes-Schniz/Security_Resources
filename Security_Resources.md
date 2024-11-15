@@ -69,3 +69,4 @@ tags:
 - [MaliciousLife](https://malicious.life/)
 - [Risky Biz](https://risky.biz/)
 - [Defcon](https://www.youtube.com/@DEFCONConference)
+- [Passwort Heise Security](https://open.spotify.com/show/5OD0uqQbQyrW2vtLrxMNCj?si=vcS9Ut9fSKmFTviyHfzR_w)
