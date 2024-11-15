@@ -50,6 +50,7 @@ tags:
 - Unit42 [1](https://unit42.paloaltonetworks.com/tag/threat-assessment/) [2](https://unit42.paloaltonetworks.com/?pg=1#reports) [3](https://unit42.paloaltonetworks.com/?pg=1#threat-brief)
 - [Mandiant](https://www.mandiant.com)
 - [Thretpost](https://threatpost.com/)
+- [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
 
 ## Training
 
