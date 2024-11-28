@@ -52,6 +52,7 @@ tags:
 - [Mandiant](https://www.mandiant.com)
 - [Thretpost](https://threatpost.com/)
 - [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
+- [ddosecrets](https://ddosecrets.com/)
 
 ## Training
 
