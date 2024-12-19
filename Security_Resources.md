@@ -72,3 +72,14 @@ tags:
 - [Risky Biz](https://risky.biz/)
 - [Defcon](https://www.youtube.com/@DEFCONConference)
 - [Passwort Heise Security](https://open.spotify.com/show/5OD0uqQbQyrW2vtLrxMNCj?si=vcS9Ut9fSKmFTviyHfzR_w)
+- [Mad Hat](https://www.youtube.com/@madhatistaken)
+- [DefCon](https://www.youtube.com/@DEFCONConference)
+
+
+## Online Events
+- [TryHackMe Advent of Cyber](https://tryhackme.com/r/room/adventofcyber2024)
+- [huntress ctf](https://www.huntress.com/blog/the-hackers-in-the-arena-the-huntress-ctf-retrospective)
+	unlike the advent calendars this one youll have to keep an eye out for. Old link: https://huntress.ctf.games/
+- [AdventOfCode](https://adventofcode.com/)
+	this is not strictly cyber related but still a worth while challenge.
+

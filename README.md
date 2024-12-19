@@ -5,6 +5,7 @@ A collection of Links and Resources as a research project into the field of Cybe
 # Links to resources
 
 [Security Resources](Security_Resources.md)
+[Cybersecurity Documentaries](Documentaries.md)
 
 # Specific Topics
 
