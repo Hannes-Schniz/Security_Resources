@@ -23,6 +23,7 @@ tags:
 - [h8mail](https://github.com/khast3x/h8mail)
 - [CyberChef](https://github.com/gchq/CyberChef)
 - [Bettercap](https://www.bettercap.org/)
+- [Teletoken](teletoken.info)
 
 ## Nachschlagen
 
@@ -50,6 +51,8 @@ tags:
 - Unit42 [1](https://unit42.paloaltonetworks.com/tag/threat-assessment/) [2](https://unit42.paloaltonetworks.com/?pg=1#reports) [3](https://unit42.paloaltonetworks.com/?pg=1#threat-brief)
 - [Mandiant](https://www.mandiant.com)
 - [Thretpost](https://threatpost.com/)
+- [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
+- [ddosecrets](https://ddosecrets.com/)
 
 ## Training
 
@@ -67,3 +70,16 @@ tags:
 - [Cyber Material](https://www.youtube.com/@cybermaterial/videos)
 - [MaliciousLife](https://malicious.life/)
 - [Risky Biz](https://risky.biz/)
+- [Defcon](https://www.youtube.com/@DEFCONConference)
+- [Passwort Heise Security](https://open.spotify.com/show/5OD0uqQbQyrW2vtLrxMNCj?si=vcS9Ut9fSKmFTviyHfzR_w)
+- [Mad Hat](https://www.youtube.com/@madhatistaken)
+- [DefCon](https://www.youtube.com/@DEFCONConference)
+
+
+## Online Events
+- [TryHackMe Advent of Cyber](https://tryhackme.com/r/room/adventofcyber2024)
+- [huntress ctf](https://www.huntress.com/blog/the-hackers-in-the-arena-the-huntress-ctf-retrospective)
+	unlike the advent calendars this one youll have to keep an eye out for. Old link: https://huntress.ctf.games/
+- [AdventOfCode](https://adventofcode.com/)
+	this is not strictly cyber related but still a worth while challenge.
+

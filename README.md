@@ -6,6 +6,8 @@ A collection of Links and Resources as a research project into the field of Cybe
 
 [Security Resources](Security_Resources.md)
 
+[Cybersecurity Documentaries](Documentaries.md)
+
 # Specific Topics
 
 [Password Cracking](Topics/password-cracking.md)
